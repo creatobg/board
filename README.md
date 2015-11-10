@@ -10,6 +10,9 @@ Creato Pinboard
 ## Documentation
 * [Laravel](http://laravel.com/docs)
 
+## Useful
+* [Laravel Recipes](http://laravel-recipes.com/contents)
+
 
 ## License
 
