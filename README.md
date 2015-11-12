@@ -1,7 +1,7 @@
 Creato Pinboard
 ===============
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources.
 
 ## Table of Contents
 
